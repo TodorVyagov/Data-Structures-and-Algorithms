@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\07.NumbersInSequenceRepeatingsCounter\bin\Debug\07.NumbersInSequenceRepeatingsCounter.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\07.NumbersInSequenceRepeatingsCounter\bin\Debug\07.NumbersInSequenceRepeatingsCounter.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\07.NumbersInSequenceRepeatingsCounter\bin\Debug\07.NumbersInSequenceRepeatingsCounter.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\07.NumbersInSequenceRepeatingsCounter\obj\Debug\07.NumbersInSequenceRepeatingsCounter.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\07.NumbersInSequenceRepeatingsCounter\obj\Debug\07.NumbersInSequenceRepeatingsCounter.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\07.NumbersInSequenceRepeatingsCounter\obj\Debug\07.NumbersInSequenceRepeatingsCounter.pdb

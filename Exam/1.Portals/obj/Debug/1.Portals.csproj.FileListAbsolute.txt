@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\1.Portals\bin\Debug\1.Portals.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\1.Portals\bin\Debug\1.Portals.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\1.Portals\bin\Debug\1.Portals.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\1.Portals\obj\Debug\1.Portals.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\1.Portals\obj\Debug\1.Portals.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\1.Portals\obj\Debug\1.Portals.csprojResolveAssemblyReference.cache

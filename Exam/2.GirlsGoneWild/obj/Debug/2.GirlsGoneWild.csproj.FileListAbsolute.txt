@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\2.GirlsGoneWild\bin\Debug\2.GirlsGoneWild.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\2.GirlsGoneWild\bin\Debug\2.GirlsGoneWild.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\2.GirlsGoneWild\bin\Debug\2.GirlsGoneWild.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\2.GirlsGoneWild\obj\Debug\2.GirlsGoneWild.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\2.GirlsGoneWild\obj\Debug\2.GirlsGoneWild.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\2.GirlsGoneWild\obj\Debug\2.GirlsGoneWild.csprojResolveAssemblyReference.cache

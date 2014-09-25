@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\05.RemoveNegativesFromSequence\bin\Debug\05.RemoveNegativesFromSequence.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\05.RemoveNegativesFromSequence\bin\Debug\05.RemoveNegativesFromSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\05.RemoveNegativesFromSequence\bin\Debug\05.RemoveNegativesFromSequence.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\05.RemoveNegativesFromSequence\obj\Debug\05.RemoveNegativesFromSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\05.RemoveNegativesFromSequence\obj\Debug\05.RemoveNegativesFromSequence.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\05.RemoveNegativesFromSequence\obj\Debug\05.RemoveNegativesFromSequence.csprojResolveAssemblyReference.cache

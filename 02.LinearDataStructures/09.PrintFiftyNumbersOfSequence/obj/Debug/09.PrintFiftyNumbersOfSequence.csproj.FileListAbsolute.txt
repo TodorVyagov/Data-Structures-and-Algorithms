@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\09.PrintFiftyNumbersOfSequence\bin\Debug\09.PrintFiftyNumbersOfSequence.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\09.PrintFiftyNumbersOfSequence\bin\Debug\09.PrintFiftyNumbersOfSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\09.PrintFiftyNumbersOfSequence\bin\Debug\09.PrintFiftyNumbersOfSequence.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\09.PrintFiftyNumbersOfSequence\obj\Debug\09.PrintFiftyNumbersOfSequence.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\09.PrintFiftyNumbersOfSequence\obj\Debug\09.PrintFiftyNumbersOfSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\09.PrintFiftyNumbersOfSequence\obj\Debug\09.PrintFiftyNumbersOfSequence.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\01.SumAndAverageOfSequence\bin\Debug\01.SumAndAverageOfSequence.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\01.SumAndAverageOfSequence\bin\Debug\01.SumAndAverageOfSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\01.SumAndAverageOfSequence\bin\Debug\01.SumAndAverageOfSequence.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\01.SumAndAverageOfSequence\obj\Debug\01.SumAndAverageOfSequence.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\01.SumAndAverageOfSequence\obj\Debug\01.SumAndAverageOfSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\01.SumAndAverageOfSequence\obj\Debug\01.SumAndAverageOfSequence.pdb

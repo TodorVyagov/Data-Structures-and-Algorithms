@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\01.NestedLoop\bin\Debug\NestedLoop.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\01.NestedLoop\bin\Debug\NestedLoop.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\01.NestedLoop\bin\Debug\NestedLoop.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\01.NestedLoop\obj\Debug\01.NestedLoops.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\01.NestedLoop\obj\Debug\NestedLoop.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\01.NestedLoop\obj\Debug\NestedLoop.pdb

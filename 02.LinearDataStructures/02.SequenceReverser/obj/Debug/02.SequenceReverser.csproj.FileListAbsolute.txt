@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\02.SequenceReverser\bin\Debug\02.SequenceReverser.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\02.SequenceReverser\bin\Debug\02.SequenceReverser.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\02.SequenceReverser\bin\Debug\02.SequenceReverser.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\02.SequenceReverser\obj\Debug\02.SequenceReverser.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\02.SequenceReverser\obj\Debug\02.SequenceReverser.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\02.SequenceReverser\obj\Debug\02.SequenceReverser.csprojResolveAssemblyReference.cache

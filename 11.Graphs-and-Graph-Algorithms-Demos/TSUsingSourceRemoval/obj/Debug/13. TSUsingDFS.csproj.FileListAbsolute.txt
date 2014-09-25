@@ -1,0 +1,5 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs-and-Graph-Algorithms-Demos\TSUsingSourceRemoval\bin\Debug\TSUsingSourceRemoval.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs-and-Graph-Algorithms-Demos\TSUsingSourceRemoval\bin\Debug\TSUsingSourceRemoval.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs-and-Graph-Algorithms-Demos\TSUsingSourceRemoval\bin\Debug\TSUsingSourceRemoval.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs-and-Graph-Algorithms-Demos\TSUsingSourceRemoval\obj\Debug\TSUsingSourceRemoval.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs-and-Graph-Algorithms-Demos\TSUsingSourceRemoval\obj\Debug\TSUsingSourceRemoval.pdb

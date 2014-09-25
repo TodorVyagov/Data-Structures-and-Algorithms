@@ -1,0 +1,5 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\02.ExtractOddRepeatedStringsFromCollection\bin\Debug\02.ExtractOddRepeatedStringsFromCollection.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\02.ExtractOddRepeatedStringsFromCollection\bin\Debug\02.ExtractOddRepeatedStringsFromCollection.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\02.ExtractOddRepeatedStringsFromCollection\bin\Debug\02.ExtractOddRepeatedStringsFromCollection.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\02.ExtractOddRepeatedStringsFromCollection\obj\Debug\02.ExtractOddRepeatedStringsFromCollection.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\02.ExtractOddRepeatedStringsFromCollection\obj\Debug\02.ExtractOddRepeatedStringsFromCollection.pdb

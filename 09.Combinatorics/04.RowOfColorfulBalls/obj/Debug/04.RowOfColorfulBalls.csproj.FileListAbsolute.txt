@@ -1,0 +1,5 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\09.Combinatorics\04.RowOfColorfulBalls\bin\Debug\RowOfColorfulBalls.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\09.Combinatorics\04.RowOfColorfulBalls\bin\Debug\RowOfColorfulBalls.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\09.Combinatorics\04.RowOfColorfulBalls\obj\Debug\RowOfColorfulBalls.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\09.Combinatorics\04.RowOfColorfulBalls\obj\Debug\RowOfColorfulBalls.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\09.Combinatorics\04.RowOfColorfulBalls\obj\Debug\04.RowOfColorfulBalls.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\03.WordsInTextCounter\bin\Debug\WordsInTextCounter.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\03.WordsInTextCounter\bin\Debug\WordsInTextCounter.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\03.WordsInTextCounter\bin\Debug\WordsInTextCounter.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\03.WordsInTextCounter\obj\Debug\03.WordsInTextCounter.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\03.WordsInTextCounter\obj\Debug\WordsInTextCounter.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\03.WordsInTextCounter\obj\Debug\WordsInTextCounter.pdb

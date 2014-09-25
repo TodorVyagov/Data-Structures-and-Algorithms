@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\04-05.HashTableAndSet\bin\Debug\HashTableAndSet.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\04-05.HashTableAndSet\bin\Debug\HashTableAndSet.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\04-05.HashTableAndSet\bin\Debug\HashTableAndSet.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\04-05.HashTableAndSet\obj\Debug\04-05.HashTableAndSet.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\04-05.HashTableAndSet\obj\Debug\HashTableAndSet.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\04.DIctionaries-HashTables-Sets\04-05.HashTableAndSet\obj\Debug\HashTableAndSet.pdb

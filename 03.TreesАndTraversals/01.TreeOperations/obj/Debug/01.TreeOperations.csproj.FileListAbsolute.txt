@@ -1,0 +1,9 @@
+D:\Telerik\11.Databases\03.TreesАndTraversals\01.TreeOperations\bin\Debug\TreeOperations.exe.config
+D:\Telerik\11.Databases\03.TreesАndTraversals\01.TreeOperations\bin\Debug\TreeOperations.exe
+D:\Telerik\11.Databases\03.TreesАndTraversals\01.TreeOperations\bin\Debug\TreeOperations.pdb
+D:\Telerik\11.Databases\03.TreesАndTraversals\01.TreeOperations\obj\Debug\01.TreeOperations.csprojResolveAssemblyReference.cache
+D:\Telerik\11.Databases\03.TreesАndTraversals\01.TreeOperations\obj\Debug\TreeOperations.exe
+D:\Telerik\11.Databases\03.TreesАndTraversals\01.TreeOperations\obj\Debug\TreeOperations.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\03.TreesАndTraversals\01.TreeOperations\bin\Debug\TreeOperations.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\03.TreesАndTraversals\01.TreeOperations\obj\Debug\TreeOperations.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\03.TreesАndTraversals\01.TreeOperations\obj\Debug\TreeOperations.pdb

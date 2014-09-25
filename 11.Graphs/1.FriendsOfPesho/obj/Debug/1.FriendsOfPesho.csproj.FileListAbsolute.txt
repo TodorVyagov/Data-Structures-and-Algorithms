@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs\1.FriendsOfPesho\bin\Debug\FriendsOfPesho.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs\1.FriendsOfPesho\obj\Debug\1.FriendsOfPesho.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs\1.FriendsOfPesho\bin\Debug\FriendsOfPesho.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs\1.FriendsOfPesho\bin\Debug\FriendsOfPesho.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs\1.FriendsOfPesho\obj\Debug\FriendsOfPesho.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs\1.FriendsOfPesho\obj\Debug\FriendsOfPesho.pdb

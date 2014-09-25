@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\11.CreateLinkedList\bin\Debug\11.CreateLinkedList.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\11.CreateLinkedList\bin\Debug\11.CreateLinkedList.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\11.CreateLinkedList\bin\Debug\11.CreateLinkedList.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\11.CreateLinkedList\obj\Debug\11.CreateLinkedList.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\11.CreateLinkedList\obj\Debug\11.CreateLinkedList.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\11.CreateLinkedList\obj\Debug\11.CreateLinkedList.csprojResolveAssemblyReference.cache

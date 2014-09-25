@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\03.SortSequence\bin\Debug\03.SortSequence.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\03.SortSequence\bin\Debug\03.SortSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\03.SortSequence\bin\Debug\03.SortSequence.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\03.SortSequence\obj\Debug\03.SortSequence.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\03.SortSequence\obj\Debug\03.SortSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\03.SortSequence\obj\Debug\03.SortSequence.pdb

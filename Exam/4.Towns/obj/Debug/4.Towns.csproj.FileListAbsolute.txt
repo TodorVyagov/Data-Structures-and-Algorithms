@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\4.Towns\bin\Debug\4.Towns.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\4.Towns\bin\Debug\4.Towns.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\4.Towns\bin\Debug\4.Towns.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\4.Towns\obj\Debug\4.Towns.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\4.Towns\obj\Debug\4.Towns.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\4.Towns\obj\Debug\4.Towns.pdb

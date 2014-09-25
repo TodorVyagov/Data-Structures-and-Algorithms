@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Frames", "1.Frames\1.Frames.csproj", "{22D72E43-78CA-4D6B-A09A-CF446169E597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.3D-Labirinth", "2.3D-Labirinth\2.3D-Labirinth.csproj", "{7AB0FE71-F740-42F2-A9D7-090D8D96C28F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D72E43-78CA-4D6B-A09A-CF446169E597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D72E43-78CA-4D6B-A09A-CF446169E597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D72E43-78CA-4D6B-A09A-CF446169E597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D72E43-78CA-4D6B-A09A-CF446169E597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB0FE71-F740-42F2-A9D7-090D8D96C28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB0FE71-F740-42F2-A9D7-090D8D96C28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB0FE71-F740-42F2-A9D7-090D8D96C28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB0FE71-F740-42F2-A9D7-090D8D96C28F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

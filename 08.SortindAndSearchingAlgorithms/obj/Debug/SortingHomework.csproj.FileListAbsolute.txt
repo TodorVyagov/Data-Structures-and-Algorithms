@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\08.SortindAndSearchingAlgorithms\bin\Debug\SortingHomework.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\08.SortindAndSearchingAlgorithms\bin\Debug\SortingHomework.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\08.SortindAndSearchingAlgorithms\bin\Debug\SortingHomework.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\08.SortindAndSearchingAlgorithms\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\08.SortindAndSearchingAlgorithms\obj\Debug\SortingHomework.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\08.SortindAndSearchingAlgorithms\obj\Debug\SortingHomework.pdb

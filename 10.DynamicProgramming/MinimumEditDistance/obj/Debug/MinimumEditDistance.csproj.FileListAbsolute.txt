@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\MinimumEditDistance\bin\Debug\MinimumEditDistance.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\MinimumEditDistance\bin\Debug\MinimumEditDistance.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\MinimumEditDistance\bin\Debug\MinimumEditDistance.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\MinimumEditDistance\obj\Debug\MinimumEditDistance.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\MinimumEditDistance\obj\Debug\MinimumEditDistance.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\MinimumEditDistance\obj\Debug\MinimumEditDistance.pdb

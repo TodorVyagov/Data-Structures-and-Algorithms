@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\3.OnlineMarket\bin\Debug\3.OnlineMarket.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\3.OnlineMarket\bin\Debug\3.OnlineMarket.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\3.OnlineMarket\bin\Debug\3.OnlineMarket.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\3.OnlineMarket\obj\Debug\3.OnlineMarket.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\3.OnlineMarket\obj\Debug\3.OnlineMarket.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\3.OnlineMarket\obj\Debug\3.OnlineMarket.pdb

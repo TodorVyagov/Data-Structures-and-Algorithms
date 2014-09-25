@@ -1,0 +1,8 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\05.AdvancedDataStructures\02.ProcessLargeCollection\obj\Debug\02.ProcessLargeCollection.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\05.AdvancedDataStructures\02.ProcessLargeCollection\bin\Debug\ProcessLargeCollection.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\05.AdvancedDataStructures\02.ProcessLargeCollection\bin\Debug\ProcessLargeCollection.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\05.AdvancedDataStructures\02.ProcessLargeCollection\bin\Debug\ProcessLargeCollection.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\05.AdvancedDataStructures\02.ProcessLargeCollection\bin\Debug\PowerCollections.dll
+D:\Telerik\12.DataStructuresAndAlgorithms\05.AdvancedDataStructures\02.ProcessLargeCollection\bin\Debug\PowerCollections.xml
+D:\Telerik\12.DataStructuresAndAlgorithms\05.AdvancedDataStructures\02.ProcessLargeCollection\obj\Debug\ProcessLargeCollection.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\05.AdvancedDataStructures\02.ProcessLargeCollection\obj\Debug\ProcessLargeCollection.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\0.Test\bin\Debug\0.Test.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\0.Test\bin\Debug\0.Test.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\0.Test\bin\Debug\0.Test.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\0.Test\obj\Debug\0.Test.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\0.Test\obj\Debug\0.Test.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\0.Test\obj\Debug\0.Test.pdb

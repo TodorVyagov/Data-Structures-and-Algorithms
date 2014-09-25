@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\09.AreaOfEmptyCells\bin\Debug\09.AreaOfEmptyCells.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\09.AreaOfEmptyCells\bin\Debug\09.AreaOfEmptyCells.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\09.AreaOfEmptyCells\bin\Debug\09.AreaOfEmptyCells.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\09.AreaOfEmptyCells\obj\Debug\09.AreaOfEmptyCells.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\09.AreaOfEmptyCells\obj\Debug\09.AreaOfEmptyCells.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\02.CombinationsWIthDuplicates\bin\Debug\09.AreaOfEmptyCells.exe.config

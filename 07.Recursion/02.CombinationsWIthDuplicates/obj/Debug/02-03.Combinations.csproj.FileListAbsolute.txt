@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\02.CombinationsWIthDuplicates\bin\Debug\02.CombinationsWIthDuplicates.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\02.CombinationsWIthDuplicates\bin\Debug\02.CombinationsWIthDuplicates.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\02.CombinationsWIthDuplicates\bin\Debug\02.CombinationsWIthDuplicates.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\02.CombinationsWIthDuplicates\obj\Debug\02.CombinationsWIthDuplicates.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\02.CombinationsWIthDuplicates\obj\Debug\02.CombinationsWIthDuplicates.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\02.CombinationsWIthDuplicates\obj\Debug\02-03.Combinations.csprojResolveAssemblyReference.cache

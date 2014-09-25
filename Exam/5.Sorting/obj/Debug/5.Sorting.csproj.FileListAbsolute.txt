@@ -1,0 +1,5 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\5.Sorting\bin\Debug\5.Sorting.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\5.Sorting\bin\Debug\5.Sorting.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\5.Sorting\bin\Debug\5.Sorting.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\5.Sorting\obj\Debug\5.Sorting.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\Exam\5.Sorting\obj\Debug\5.Sorting.pdb

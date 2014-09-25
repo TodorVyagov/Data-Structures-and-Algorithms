@@ -1,0 +1,12 @@
+D:\Telerik\11.Databases\03.TreesАndTraversals\03.SystemTree\bin\Debug\03.SystemTree.exe.config
+D:\Telerik\11.Databases\03.TreesАndTraversals\03.SystemTree\obj\Debug\03.SystemTree.csprojResolveAssemblyReference.cache
+D:\Telerik\11.Databases\03.TreesАndTraversals\03.SystemTree\bin\Debug\03.SystemTree.exe
+D:\Telerik\11.Databases\03.TreesАndTraversals\03.SystemTree\bin\Debug\03.SystemTree.pdb
+D:\Telerik\11.Databases\03.TreesАndTraversals\03.SystemTree\obj\Debug\03.SystemTree.exe
+D:\Telerik\11.Databases\03.TreesАndTraversals\03.SystemTree\obj\Debug\03.SystemTree.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\03.TreesАndTraversals\03.SystemTree\bin\Debug\03.SystemTree.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\03.TreesАndTraversals\03.SystemTree\obj\Debug\03.SystemTree.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\03.TreesАndTraversals\03.SystemTree\obj\Debug\03.SystemTree.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\03.TreesАndTraversals\03.SystemTree\bin\Debug\03.SystemTree.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\03.TreesАndTraversals\03.SystemTree\bin\Debug\03.SystemTree.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\03.TreesАndTraversals\03.SystemTree\obj\Debug\03.SystemTree.csprojResolveAssemblyReference.cache

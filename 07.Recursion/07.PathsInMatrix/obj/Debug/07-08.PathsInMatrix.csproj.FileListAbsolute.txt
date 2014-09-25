@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\07.PathsInMatrix\obj\Debug\07-08.PathsInMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\07.PathsInMatrix\obj\Debug\07.PathsInMatrix.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\07.PathsInMatrix\bin\Debug\07.PathsInMatrix.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\07.PathsInMatrix\bin\Debug\07.PathsInMatrix.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\07.PathsInMatrix\bin\Debug\07.PathsInMatrix.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\07.PathsInMatrix\obj\Debug\07.PathsInMatrix.pdb

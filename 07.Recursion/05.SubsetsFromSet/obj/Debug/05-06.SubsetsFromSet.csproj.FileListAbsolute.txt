@@ -1,0 +1,5 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\05.SubsetsFromSet\bin\Debug\05.SubsetsFromSet.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\05.SubsetsFromSet\bin\Debug\05.SubsetsFromSet.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\05.SubsetsFromSet\bin\Debug\05.SubsetsFromSet.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\05.SubsetsFromSet\obj\Debug\05.SubsetsFromSet.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion\05.SubsetsFromSet\obj\Debug\05.SubsetsFromSet.pdb

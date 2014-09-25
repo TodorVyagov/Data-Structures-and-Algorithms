@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\12.CreateStaticStack\bin\Debug\12.CreateStaticStack.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\12.CreateStaticStack\obj\Debug\12.CreateStaticStack.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\12.CreateStaticStack\bin\Debug\12.CreateStaticStack.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\12.CreateStaticStack\bin\Debug\12.CreateStaticStack.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\12.CreateStaticStack\obj\Debug\12.CreateStaticStack.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\12.CreateStaticStack\obj\Debug\12.CreateStaticStack.pdb

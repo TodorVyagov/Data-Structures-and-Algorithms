@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\04.LongestEqualSubsequenceFromSequence\bin\Debug\04.LongestEqualSubsequenceFromSequence.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\04.LongestEqualSubsequenceFromSequence\bin\Debug\04.LongestEqualSubsequenceFromSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\04.LongestEqualSubsequenceFromSequence\bin\Debug\04.LongestEqualSubsequenceFromSequence.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\04.LongestEqualSubsequenceFromSequence\obj\Debug\04.LongestEqualSubsequenceFromSequence.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\04.LongestEqualSubsequenceFromSequence\obj\Debug\04.LongestEqualSubsequenceFromSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\04.LongestEqualSubsequenceFromSequence\obj\Debug\04.LongestEqualSubsequenceFromSequence.pdb

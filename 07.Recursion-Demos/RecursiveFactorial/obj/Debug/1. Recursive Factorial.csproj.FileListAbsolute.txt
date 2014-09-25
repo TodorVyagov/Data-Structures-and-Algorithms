@@ -1,0 +1,5 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion-Demos\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion-Demos\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion-Demos\RecursiveFactorial\obj\Debug\1. Recursive Factorial.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion-Demos\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\07.Recursion-Demos\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

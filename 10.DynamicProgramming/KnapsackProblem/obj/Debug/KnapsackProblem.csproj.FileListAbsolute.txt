@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\KnapsackProblem\bin\Debug\KnapsackProblem.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\KnapsackProblem\bin\Debug\KnapsackProblem.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\KnapsackProblem\bin\Debug\KnapsackProblem.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\KnapsackProblem\obj\Debug\KnapsackProblem.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\KnapsackProblem\obj\Debug\KnapsackProblem.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\10.DynamicProgramming\KnapsackProblem\obj\Debug\KnapsackProblem.pdb

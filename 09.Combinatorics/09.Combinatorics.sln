@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BinaryPasswords", "01.BinaryPasswords\01.BinaryPasswords.csproj", "{905627D9-F11A-49FE-9BDC-7FF33ADFA5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RowOfColorfulBalls", "04.RowOfColorfulBalls\04.RowOfColorfulBalls.csproj", "{3CECC111-D103-4F57-801C-4747341DAF53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905627D9-F11A-49FE-9BDC-7FF33ADFA5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905627D9-F11A-49FE-9BDC-7FF33ADFA5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905627D9-F11A-49FE-9BDC-7FF33ADFA5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905627D9-F11A-49FE-9BDC-7FF33ADFA5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CECC111-D103-4F57-801C-4747341DAF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CECC111-D103-4F57-801C-4747341DAF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CECC111-D103-4F57-801C-4747341DAF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CECC111-D103-4F57-801C-4747341DAF53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

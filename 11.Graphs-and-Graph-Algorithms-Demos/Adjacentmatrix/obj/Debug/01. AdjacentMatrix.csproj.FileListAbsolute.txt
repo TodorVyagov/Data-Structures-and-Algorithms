@@ -1,0 +1,6 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs-and-Graph-Algorithms-Demos\Adjacentmatrix\bin\Debug\Adjacentmatrix.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs-and-Graph-Algorithms-Demos\Adjacentmatrix\bin\Debug\Adjacentmatrix.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs-and-Graph-Algorithms-Demos\Adjacentmatrix\bin\Debug\Adjacentmatrix.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs-and-Graph-Algorithms-Demos\Adjacentmatrix\obj\Debug\01. AdjacentMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs-and-Graph-Algorithms-Demos\Adjacentmatrix\obj\Debug\Adjacentmatrix.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\11.Graphs-and-Graph-Algorithms-Demos\Adjacentmatrix\obj\Debug\Adjacentmatrix.pdb

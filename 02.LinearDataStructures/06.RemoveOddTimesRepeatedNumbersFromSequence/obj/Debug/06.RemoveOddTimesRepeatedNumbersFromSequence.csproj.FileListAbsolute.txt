@@ -1,0 +1,5 @@
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\06.RemoveOddTimesRepeatedNumbersFromSequence\bin\Debug\06.RemoveOddTimesRepeatedNumbersFromSequence.exe.config
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\06.RemoveOddTimesRepeatedNumbersFromSequence\bin\Debug\06.RemoveOddTimesRepeatedNumbersFromSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\06.RemoveOddTimesRepeatedNumbersFromSequence\bin\Debug\06.RemoveOddTimesRepeatedNumbersFromSequence.pdb
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\06.RemoveOddTimesRepeatedNumbersFromSequence\obj\Debug\06.RemoveOddTimesRepeatedNumbersFromSequence.exe
+D:\Telerik\12.DataStructuresAndAlgorithms\02.LinearDataStructures\06.RemoveOddTimesRepeatedNumbersFromSequence\obj\Debug\06.RemoveOddTimesRepeatedNumbersFromSequence.pdb
